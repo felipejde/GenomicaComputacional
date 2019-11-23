@@ -1,0 +1,34 @@
+Cova Pacheco Felipe de Jesús
+312030111
+
+1
+i)ADN los que tienen nt en el nombre de archivo y Aminoacidos los que tienen aa
+ii) 1297
+iii) 1813.804
+iv) 1531.071
+
+2.
+i)
+Arabidopsis thaliana es una pequeña planta con flores que se usa ampliamente como organismo modelo en biología vegetal. Arabidopsis es un miembro de la familia de la mostaza (Brassicaceae), que incluye especies cultivadas como la col y el rábano. Arabidopsis no es de gran importancia agronómica, pero ofrece importantes ventajas para la investigación básica en genética y biología molecular. Arabidopsis thaliana tiene un tamaño de genoma de ~ 135 Mbp y un número de cromosoma haploide de 5.
+
+Escherichia coli (abreviada como E. coli) son bacterias que se encuentran en el medio ambiente, los alimentos y los intestinos de personas y animales. E. coli es un grupo grande y diverso de bacterias. Aunque la mayoría de las cepas de E. coli son inofensivas, otras pueden enfermarlo. Algunos tipos de E. coli pueden causar diarrea, mientras que otros causan infecciones del tracto urinario, enfermedades respiratorias y neumonía, y otras enfermedades.
+
+Homo sapiens (del latín, homo ‘hombre’ y sapiens ‘sabio’) es una especie del orden de los primates perteneciente a la familia de los homínidos. También son conocidos bajo la denominación genérica de «hombres». Los seres humanos poseen capacidades mentales que les permiten inventar, aprender y utilizar estructuras lingüísticas complejas, lógicas, matemáticas, escritura, música, ciencia, y tecnología. Los humanos son animales sociales, capaces de concebir, transmitir y aprender conceptos totalmente abstractos.
+
+La levadura de cerveza (Saccharomyces cerevisiae Meyen ex E.C.Hansen, de Saccharo azúcar, myces hongo y cerevisiae cerveza) es un hongo unicelular, un tipo de levadura utilizado industrialmente en la fabricación de pan, cerveza y vino. En su ciclo de vida alternan dos formas, una haploide y otra diploide. Ambas formas se reproducen de forma asexual por gemación. En condiciones muy determinadas la forma diploide es capaz de reproducirse sexualmente. En estos casos se produce la meiosis en la célula formándose un asca que contiene cuatro ascosporas haploides.
+
+Thermus thermophilus es una eubacteria gram negativa utilizada en una gran variedad de aplicaciones en biotecnología, incluyéndolo como organismo modelo en la manipulación genética, genómica estructural y biología de sistemas. La bacteria es un termófilo extremo, con una temperatura de crecimiento óptimo a una temperatura de unos 65 °C.Thermus thermophilus fue aislado originalmente en un ambiente de fumarolas hidrotermales en Japón por Tairo Oshima y Kazutomo Imahori. También se ha visto que el organismo es importante en la degradación de materia orgánica en la fase termogénica del compostaje.
+
+
+ii) Arabidopsis
+
+iii) Thermus thermophilus. Como tiene un nivel alto de GC, esto lo convierte un organismo importante para el estudio de la genética y la biotecnología.
+
+3.
+b) Los aminoacidos N, S y K tienen una proporción distinta en Saccharomyces cerevisiae, son mas altas con respeto a los demás aminoacidos de Saccharomyces cerevisiae en comparación con las proporciones de los demas organismos. En Escherichia coli la K es considerablemente mas baja en comparación con los otros organismos
+
+c) La mayoría de los aminoacidos presentan proporciones similares, pero el que tiene mas similitud en todos los organismos es L.
+
+4.
+a) baja
+b) ninguna
